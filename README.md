@@ -1,22 +1,27 @@
-# NOTESAPP
+# NOTESAPP - Your Personal Note Management Tool
 This a Node Application to add, remove and list notes.
-
-Go to master branch
-
 
 
 # Description
-*This is a note taking app that can be used to add, remove, list and read notes for daily tasks.*
+**NotesApp** is a lightweight and efficient application built with **Node.js** to help you manage your notes seamlessly. Whether you're organizing your daily tasks or brainstorming ideas, NotesApp simplifies the process with its easy-to-use features.
 
 
-### Technology Used
-*Node.js and Vanilla JS.*
+## Features 🚀
+- **Add Notes**: Quickly jot down your thoughts and tasks.
+- **Read Notes**: View your saved notes anytime.
+- **Update Notes**: Edit existing notes to keep them updated.
+- **Delete Notes**: Remove notes you no longer need with ease.
+
+
+## Tech Stack 💻
+- **Backend**: Node.js
+- **Data Storage**: JSON (lightweight and efficient)
 
 
 # Get Started
-Clone this Repository on you machine locally.
-
-**Run**  `npm install`
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/varun1915/NOTESAPP.git
 
 
 
