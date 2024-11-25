@@ -9,6 +9,8 @@ Go to master branch
 # Get Started
 Clone this Repository on you machine locally.
 
+**Run**  `npm install`
+
 
 
 ## Add a Note
